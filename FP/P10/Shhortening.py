@@ -1,0 +1,2 @@
+def shorten(suffixes, base):
+    
